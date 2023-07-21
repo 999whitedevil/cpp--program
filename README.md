@@ -1,5 +1,5 @@
-# python-program
-|||| ISCLAIMER:
+# c++(projects)
+|||| DISCLAIMER: ||||
 
 This program, including its code and associated functionalities, has been developed through collaborative team efforts. We, the developers, want to emphasize that the creation of this program was a result of collective teamwork, collaboration, and decision-making. We did not engage in any unethical practices, such as copying code or intellectual property from external sources without proper authorization.
 
